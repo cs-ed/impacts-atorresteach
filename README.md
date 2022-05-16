@@ -19,8 +19,8 @@ Currently 7% of students at Indio High School take a computer science course, al
 ### How will students demonstrate the social impact of Computer Science on society?
 ---
 
-| Blooms Taxonomy 	        | Goals  	|   	
-| ---	| ---	|
+| Blooms Taxonomy|Goals|   	
+| :---:	| :---:	|
 |  Recall Facts and Basic Concepts         - Remember	|  Students will need to define  	|   
 |  Explain Ideas and Concepts - Understand 	|  Students will need to design a program and provide an explanation of how the alogorithm will functions 	|   
 |  Use Information in New Situations - Apply	| Students will use information they have learned about algorithms to determine if a given algorithm could have either a positive or negative affect in society. Students will determine   	|   	
