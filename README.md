@@ -14,8 +14,9 @@ Currently 7% of students at Indio High School take a computer science course, al
 
 &ensp; **Social Impact of Computer Science**
 
-Recall Facts and Basic Concepts
-- Students will need to define 
+&ensp; Recall Facts and Basic Concepts
+
+-&ensp; Students will need to define 
 
 Explain Ideas and Concepts
 
