@@ -12,7 +12,7 @@ Currently 7% of students at Indio High School take a computer science course, al
 - Testing program code and correcting errors
 - Documenting and explaining how program code works
 
-&ensp; **Social Impact of Computer Science**
+&ensp; **How will students demonstrate the social impact of Computer Science on society?**
 
 &ensp; Recall Facts and Basic Concepts
 
