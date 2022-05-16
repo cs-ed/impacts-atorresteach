@@ -1,4 +1,4 @@
-![Rajahs (4)](https://user-images.githubusercontent.com/89416299/142585478-9f65337d-ff5f-445c-9f7a-f4ae308d546b.png)
+![Rajahs (3)](https://user-images.githubusercontent.com/89416299/142585478-9f65337d-ff5f-445c-9f7a-f4ae308d546b.png)
 
 # **Impacts on Society**
 ---
@@ -7,7 +7,7 @@ Currently 7% of students at Indio High School take a computer science course, al
 
 
 
-## AP Computer Science - A 
+## AP Computer Science Principals
 
 ### Learning Objectives
 
