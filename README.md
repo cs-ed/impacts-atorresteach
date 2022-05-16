@@ -19,7 +19,11 @@ Currently 7% of students at Indio High School take a computer science course, al
 ### How will students demonstrate the social impact of Computer Science on society?
 ---
 
--Recall Facts and Basic Concepts
+| Blooms Tax  	| Goals  	|   	|  	|   	|
+|---	|---	|---	|---	|---	|
+|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|Recall Facts and Basic Concepts
 
 -- Students will need to define 
 
