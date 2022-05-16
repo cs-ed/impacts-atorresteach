@@ -1,7 +1,8 @@
 ![Rajahs (3)](https://user-images.githubusercontent.com/89416299/142585478-9f65337d-ff5f-445c-9f7a-f4ae308d546b.png)
+---
 
 # **Impacts on Society**
----
+
 
 Currently 7% of students at Indio High School take a computer science course, although no specialty courses are offered.  The first course I would implement at Indio High School would be AP Computer Science A.  This course would allow students to become familiar with the concepts and tools of computer science as you learn a subset of the Java programming language.  Students will gain hands-on work and collaboration skills to design, write, and test computer programs that solve problems or accomplish tasks with addressing the social impacts of computer science.  
 
@@ -16,8 +17,9 @@ Currently 7% of students at Indio High School take a computer science course, al
 - Documenting and explaining how program code works
 
 &ensp; **How will students demonstrate the social impact of Computer Science on society?**
+---
 
-&ensp; Recall Facts and Basic Concepts
+Recall Facts and Basic Concepts
 
 - Students will need to define 
 
