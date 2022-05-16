@@ -1,4 +1,7 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=6007464&assignment_repo_type=AssignmentRepo)
+
 # **Impacts on Society**
+---
 
 Currently 7% of students at Indio High School take a computer science course, although no specialty courses are offered.  The first course I would implement at Indio High School would be AP Computer Science A.  This course would allow students to become familiar with the concepts and tools of computer science as you learn a subset of the Java programming language.  Students will gain hands-on work and collaboration skills to design, write, and test computer programs that solve problems or accomplish tasks with addressing the social impacts of computer science.  
 
