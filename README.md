@@ -16,7 +16,7 @@ Currently 7% of students at Indio High School take a computer science course, al
 
 &ensp; Recall Facts and Basic Concepts
 
--&ensp; Students will need to define 
+- Students will need to define 
 
 Explain Ideas and Concepts
 
