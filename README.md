@@ -1,6 +1,10 @@
 # Impacts on Society
 
-Describe your course including the name, description, and grade level. Broadly explain how this document details how you plan to incorporate issues of computing impacts on society in your course
+Currently 7% of students at Indio High School take a computer science course, although no specialty courses are offered.  The first course I would implement at Indio High School would be AP Computer Science A.  This course would allow students to become familiar with the concepts and tools of computer science as you learn a subset of the Java programming language.  Students will gain hands-on work and collaborative skills  to design, write, and test computer programs that solve problems or accomplish tasks.
+
+
+
+
 
 ## Plan
 
