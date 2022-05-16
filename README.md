@@ -4,7 +4,7 @@ Currently 7% of students at Indio High School take a computer science course, al
 
 
 
-## Plan
+## AP Computer Science - A 
 
 ### Learning Objectives
 
