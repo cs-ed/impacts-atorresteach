@@ -12,18 +12,18 @@ Currently 7% of students at Indio High School take a computer science course, al
 - Testing program code and correcting errors
 - Documenting and explaining how program code works
 
-####Social Impact of Computer Science
+#### Social Impact of Computer Science
 
 Recall Facts and Basic Concepts
--Students will need to define 
+- Students will need to define 
 
 Explain Ideas and Concepts
 
--Students will need to design a program and provide an explanation of how the alogorithm will functions 
+- Students will need to design a program and provide an explanation of how the alogorithm will functions 
 
 Use Information in New Situations
 
--Students will use information they have learned about algorithms to determine if a given algorithm could have either a positive or negative affect in society. Students will determine 
+- Students will use information they have learned about algorithms to determine if a given algorithm could have either a positive or negative affect in society. Students will determine 
 
 Draw Connections Among Ideas
 
