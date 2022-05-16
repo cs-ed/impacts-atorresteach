@@ -14,17 +14,17 @@ Currently 7% of students at Indio High School take a computer science course, al
 
 ####Social Impact of Computer Science
 
-#Recall Facts and Basic Concepts
+Recall Facts and Basic Concepts
 -Students will need to define 
-#Explain Ideas and Concepts
+Explain Ideas and Concepts
 -Students will need to design a program and provide an explanation of how the alogorithm will functions 
-#Use Information in New Situations
+Use Information in New Situations
 -Students will use information they have learned about algorithms to determine if a given algorithm could have either a positive or negative affect in society. Students will determine 
-#Draw Connections Among Ideas
+Draw Connections Among Ideas
 -
-#Justify a Stand or Decision
+Justify a Stand or Decision
 -
-#Produce New or Original Work 
+Produce New or Original Work 
 -
 ### Learning Activities
 
