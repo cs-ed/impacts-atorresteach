@@ -19,11 +19,11 @@ Currently 7% of students at Indio High School take a computer science course, al
 ###Unit 1: Intro to Computer Science and Algorithms
 | *Unit 1*| *Topics/Activites* |  *Big Ideas-CRD, AAP, IOC* | 	
 | :---:	| :---:| :---: |
-| |What is computer science and why should we study it? (Videos, discussion, readings, blogs)| |
-|  |Intro to Collaboration (Pogil Activity)|   |
-|  |Computing Innovations (Drones, Self-DrivingCars, selections from students)||
-| |Algorithms (Video, PB&J, Guide Leading Blind, Flowcharts, Robot Game, CSP’s Got Game! Pseudocode, Efficiency, Relationship to Computer Programs|  |
-| |CS Illuminated Chapter 1| |
+| 1.|What is computer science and why should we study it? (Videos, discussion, readings, blogs)| |
+| 2. |Intro to Collaboration (Pogil Activity)|   |
+| 3. |Computing Innovations (Drones, Self-DrivingCars, selections from students)||
+| 4.|Algorithms (Video, PB&J, Guide Leading Blind, Flowcharts, Robot Game, CSP’s Got Game! Pseudocode, Efficiency, Relationship to Computer Programs|  |
+|5. |CS Illuminated Chapter 1| |
 
 ### How will students demonstrate the social impact of Computer Science on society?
 ---
