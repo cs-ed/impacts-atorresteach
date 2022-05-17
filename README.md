@@ -16,6 +16,15 @@ Currently 7% of students at Indio High School take a computer science course, al
 - Testing program code and correcting errors
 - Documenting and explaining how program code works
 
+Unit 1: Intro to Computer Science and Algorithms
+
+-What is computer science and why should we study it? (Videos, discussion, readings, blogs)
+ Intro to Collaboration (Pogil Activity)
+ Computing Innovations (Drones, Self-Driving
+Cars, selections from students)
+ Algorithms (Video, PB&J, Guide Leading Blind, Flowcharts, Robot Game, CSP’s Got Game! Pseudocode, Efficiency, Relationship to Computer Programs
+ CS Illuminated Chapter 1
+
 ### How will students demonstrate the social impact of Computer Science on society?
 ---
 
