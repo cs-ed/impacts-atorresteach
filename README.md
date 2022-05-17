@@ -42,7 +42,20 @@ Currently 7% of students at Indio High School take a computer science course, al
 
 ### Learning Activities
 
-Describe the learning activities and how they will be incorporated into the class. For example, will they include class discussion, written reports, homework, or exams? Will the activity be a one-time lesson or used multiple times in class?
+Unit 1 Activity for Algorithms (AAP) (P2) CR3
+Materials needed: 
+- Chromebook
+- Google Docs
+
+Lesson: Students are given a task to create a set of instructions to give to a “guide” to help a “visually impaired” person get from “home” to “work” to “lunch” and then back “home.” 
+
+Directions: 
+- In groups of 2 or 3, students write detailed instructions to direct a “blind” person from one location to another and then another in Google Docs. 
+- They test their instructions within the group and then print out and share the instructions with another group. T
+- The designated guide will read instructions EXACTLY as they are written and the designated blind person will do EXACTLY what the instructions say to do. 
+- The recorder will take notes about any issues observed from this activity. 
+- Groups will discuss the experience with the entire class. F
+- For homework, students will rewrite the algorithm basedon the feedback and experience of the activity. 
 
 ### Assessment
 
