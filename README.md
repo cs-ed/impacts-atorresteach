@@ -16,7 +16,7 @@ Currently 7% of students at Indio High School take a computer science course, al
 - Testing program code and correcting errors
 - Documenting and explaining how program code works
 
-###Unit 1: Intro to Computer Science and Algorithms
+### Unit 1: Intro to Computer Science and Algorithms
 | *Unit 1*| *Topics/Activites* |  *Big Ideas-CRD, AAP, IOC* | 	
 | :---:	| :---:| :---: |
 | 1.|What is computer science and why should we study it? (Videos, discussion, readings, blogs)| |
