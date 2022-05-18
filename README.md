@@ -28,7 +28,7 @@ Currently 7% of students at Indio High School take a computer science course, al
 ### How will students demonstrate the social impact of Computer Science on society?
 ---
 
-| * CR, CR10*| *Unit 1 Activity for Computing Innovations (IOC) (Computing Innovation 1, Prompt A)* |   	
+| *CR,CR10*| *Unit 1 Activity for Computing Innovations (IOC) (Computing Innovation 1, Prompt A)* |   	
 | :---:	| :---:|
 |  Recall Facts and Basic Concepts - Remember	|  Students will be able to recognize and define various parts of a computer and algorithm	|   
 |  Explain Ideas and Concepts - Understand 	|  Students will need to design a program and provide an explanation of how the alogorithm will function	|   
