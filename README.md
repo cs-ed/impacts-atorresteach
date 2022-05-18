@@ -30,7 +30,6 @@ Currently 7% of students at Indio High School take a computer science course, al
 
 
 
----
 ### How will students demonstrate the social impact of Computer Science on society?
 ---
 
@@ -51,15 +50,19 @@ Currently 7% of students at Indio High School take a computer science course, al
 ### Learning Activities
 
 Unit 1 Activity for Algorithms (AAP) (P2) CR3
+
 Materials needed: 
 - Chromebook
 - Google Docs
+- Paper and Pencil
 
 Lesson: Students are given a task to create a set of instructions to give to a “guide” to help a “visually impaired” person get from “home” to “work” to “lunch” and then back “home.” 
+ -Students will be allocated 15 minutes to write their initial directions.
+ -Students will be assignend random numbers and paired using a random number generator 
 
 Directions: 
-- In groups of 2 or 3, students write detailed instructions to direct a “blind” person from one location to another and then another in Google Docs. 
-- They test their instructions within the group and then print out and share the instructions with another group. T
+- In groups of 2 or 3, students write detailed instructions to direct a “blind” person from one location to another and then another in Google Docs. Students must write 
+- They test their instructions within the group and then print out and share the instructions with another group where they will use the instructions to create a map.  
 - The designated guide will read instructions EXACTLY as they are written and the designated blind person will do EXACTLY what the instructions say to do. 
 - The recorder will take notes about any issues observed from this activity. 
 - Groups will discuss the experience with the entire class. F
@@ -67,7 +70,7 @@ Directions:
 
 ### Assessment
 
-Describe how you plan to assess the learning objectives described above.
+Students will be assesed using a method that incorporates art: After making initial corrections to the instuctions used in the te visual art or photography or videography as an assessment tool. Whether students draw, create a collage, or sculpt, you may find that the assessment helps them synthesize their learning. Or think beyond the visual and have kids act out their understanding of the content. 
 
 ### Outcomes
 
