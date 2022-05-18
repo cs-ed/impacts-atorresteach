@@ -9,12 +9,15 @@ Currently 7% of students at Indio High School take a computer science course, al
 
 
 ## AP Computer Science Principles
+---
 
 ### Learning Objectives
+---
 
 - Designing a program, developing the algorithms it needs, and writing code to implement them
 - Testing program code and correcting errors
 - Documenting and explaining how program code works
+
 
 ### Unit 1: Intro to Computer Science and Algorithms
 | *Unit 1*| *Topics/Activites* |  *Big Ideas* | 	
@@ -25,8 +28,13 @@ Currently 7% of students at Indio High School take a computer science course, al
 ||Algorithms (Video, PB&J, Guide Leading Blind, Flowcharts, Robot Game, CSP’s Got Game! Pseudocode, Efficiency, Relationship to Computer Programs|CRD, AAP, IOC  |
 ||CS Illuminated Chapter 1| CRD, AAP, IOC|
 
+
+
+---
 ### How will students demonstrate the social impact of Computer Science on society?
 ---
+
+
 
 | *CR,CR10*| *Unit 1 Activity for Computing Innovations (IOC) (Computing Innovation 1, Prompt A)* |   	
 | :---:	| :---:|
