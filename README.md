@@ -23,7 +23,7 @@ Currently 7% of students at Indio High School take a computer science course, al
 | |Intro to Collaboration (Pogil Activity)|CRD, AAP, IOC   |
 ||Computing Innovations (Drones, Self-DrivingCars, selections from students)|CRD, AAP, IOC|
 ||Algorithms (Video, PB&J, Guide Leading Blind, Flowcharts, Robot Game, CSP’s Got Game! Pseudocode, Efficiency, Relationship to Computer Programs|CRD, AAP, IOC  |
-|5. |CS Illuminated Chapter 1| CRD, AAP, IOC|
+||CS Illuminated Chapter 1| CRD, AAP, IOC|
 
 ### How will students demonstrate the social impact of Computer Science on society?
 ---
