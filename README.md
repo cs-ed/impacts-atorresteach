@@ -38,8 +38,8 @@ Currently 7% of students at Indio High School take a computer science course, al
 | *CR,CR10*| *Unit 1 Activity for Computing Innovations (IOC) (Computing Innovation 1, Prompt A)* |   	
 | :---:	| :---:|
 |  Recall Facts and Basic Concepts - Remember	|  Students will be able to recognize and define various parts of a computer and algorithm	|   
-|  Explain Ideas and Concepts - Understand 	|  Students will need to design a program and provide an explanation of how the alogorithm will function	|   
-|  Use Information in New Situations - Apply	| Students will use information they have learned about algorithms to determine if a given algorithm could have either a positive or negative affect in society. Students will determine   	|   	
+|  Explain Ideas and Concepts - Understand 	|  Students will need to design a program and provide an explanation of how the alogorithm will function.	|   
+|  Use Information in New Situations - Apply	| Students will use information they have learned about algorithms to determine if a written or given algorithm could have either a positive or negative affect in society. Students will write up explanations of these impacts and look for ways to improve the algorithm, or ensure it is accessible to all demographics. |  	|   	
 |  Draw Connections Among Ideas - Analyze  | Students will analyze algorithms and programs in both a social context and in a formal algorithm and program and determine ways to improve it to meet the needs of society|
 |  Justify a Stand or Decision - Evaluate  | Students evaluate algorithms written by their peers and used constructive feedback in order to create a classroom culture of support that fosters a learning environment |
 |  Produce New or Original Work - Create | Students will demonstrate learning by creating a solution through producing an alogorithm, a program, or writing response that addresses the positive and negative impacts a particular computer innovation has and ways that we can make it better. |  |
