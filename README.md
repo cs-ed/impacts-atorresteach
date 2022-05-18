@@ -17,13 +17,13 @@ Currently 7% of students at Indio High School take a computer science course, al
 - Documenting and explaining how program code works
 
 ### Unit 1: Intro to Computer Science and Algorithms
-| *Unit 1*| *Topics/Activites* |  *Big Ideas-CRD, AAP, IOC* | 	
+| *Unit 1*| *Topics/Activites* |  *Big Ideas* | 	
 | :---:	| :---:| :---: |
-| 1.|What is computer science and why should we study it? (Videos, discussion, readings, blogs)| |
-| 2. |Intro to Collaboration (Pogil Activity)|   |
-| 3. |Computing Innovations (Drones, Self-DrivingCars, selections from students)||
-| 4.|Algorithms (Video, PB&J, Guide Leading Blind, Flowcharts, Robot Game, CSP’s Got Game! Pseudocode, Efficiency, Relationship to Computer Programs|  |
-|5. |CS Illuminated Chapter 1| |
+| 1.|What is computer science and why should we study it? (Videos, discussion, readings, blogs)| CRD, AAP, IOC|
+| 2. |Intro to Collaboration (Pogil Activity)|CRD, AAP, IOC   |
+| 3. |Computing Innovations (Drones, Self-DrivingCars, selections from students)|CRD, AAP, IOC|
+| 4.|Algorithms (Video, PB&J, Guide Leading Blind, Flowcharts, Robot Game, CSP’s Got Game! Pseudocode, Efficiency, Relationship to Computer Programs|-CRD, AAP, IOC  |
+|5. |CS Illuminated Chapter 1| -CRD, AAP, IOC|
 
 ### How will students demonstrate the social impact of Computer Science on society?
 ---
