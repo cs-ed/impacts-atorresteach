@@ -53,10 +53,10 @@ Students will be assesed using a method that incorporates art: After making init
 To broaden participation in computing it is important to create and fostor a positive learning environment.  The largest obstacle is getting students to perservere and recognize their learning success. By creating a collaborative learning environment where students feel they can fail without judgment, they will open themselves up to asking questions and gaining feedback.  The greatest measure of success for an elective class like this is word of mouth from peer to peer.  Creating a class that students find enjoyable and rewarding, while also maintaining its objective and rigor is the key to creating long-term goals at our site to address the gap in minorities entering the field.  The goal would be to start with 1 class and by three years have 3 classes, and continue to work on increasing those numbers and adding more classes into the schedule that build on this framework. 
 
 ### Resources
--https://thesassway.com/how-has-computer-science-changed-our-communities-and-social-interactions/
--https://apcentral.collegeboard.org/courses/ap-computer-science-principles-
--https://csforca.org/the-data/
--https://www.cde.ca.gov/pd/ca/cs/index.asp
--https://www.engage-csedu.org/find-resources/air-quality-index-calculator
+- https://thesassway.com/how-has-computer-science-changed-our-communities-and-social-interactions/
+- https://apcentral.collegeboard.org/courses/ap-computer-science-principles-
+- https://csforca.org/the-data/
+- https://www.cde.ca.gov/pd/ca/cs/index.asp
+- https://www.engage-csedu.org/find-resources/air-quality-index-calculator
 
 
