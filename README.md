@@ -3,10 +3,10 @@
 # Creating Social Change through Computer Science 
 
 
-<p align="center"> Currently 7% of students at Indio High School take a computer science course, although no specialty courses are offered.Since 96% of the student body is Latino offering this course would provide a great oppurtinity to help gain traction on the diversity gap in the computer science industry. Currently only 24% of those taking a computer science course are female, so finding ways to recruit more female students would be a focus during course request times at the end of the year. 
+Currently 7% of students at Indio High School take a computer science course, although no specialty courses are offered.Since 96% of the student body is Latino offering this course would provide a great oppurtinity to help gain traction on the diversity gap in the computer science industry. Currently only 24% of those taking a computer science course are female, so finding ways to recruit more female students would be a focus during course request times at the end of the year. 
 
-<p align="center">The first course I would implement at Indio High School would be AP Computer Science Principles.  This course would allow students to become familiar with the concepts and tools of computer science as you learn to program in python.  Students will gain hands-on work and collaboration skills to design, write, and test computer programs that solve problems or accomplish tasks while learning about and addressing the social impacts of computer science. 
-- <p align="center">This would be considered an introductory computer science course open to students who have completed Integrated Math I with a C or better. 
+The first course I would implement at Indio High School would be AP Computer Science Principles.  This course would allow students to become familiar with the concepts and tools of computer science as you learn to program in python.  Students will gain hands-on work and collaboration skills to design, write, and test computer programs that solve problems or accomplish tasks while learning about and addressing the social impacts of computer science. 
+-This would be considered an introductory computer science course open to students who have completed Integrated Math I with a C or better. 
 
 
 # AP Computer Science Principles
@@ -31,7 +31,7 @@
 | 6.| Produce New or Original Work - Create | Students will demonstrate learning by creating a solution through producing an alogorithm, a program, or writing response that addresses the positive and negative impacts a particular computer innovation has and ways that we can make it better. |  |
 
 
-# <p align="center">Learning Activities
+# Learning Activities
 
 ### Unit 1: Intro to Computer Science and Algorithms
 | *Unit 1*| *Topics/Activites* |  *Big Ideas* | 	
@@ -44,7 +44,10 @@
 
 ### Assessment
 Students will be assessed on the 6 objectives above based on Blooms Taxonomy using the 4 point scale rubric below.  Standard based grading will be implemented in order to provide students flexibility on their "grade."  The system allows students who may not demonstrate mastery at the beginning but later provide evidence that they have now gained understanding to improve thier grade. This further builds inclusitivity as students will not feel the need to give up when things are difficult because if they perservere their is ample oppurtunity for success.  
+
 ---
+
+
 | 4| 3| 2  | 1|
 | :---:	| :---:|:---:|:---:|
 | Exemplary|Meeting |Approaching|Beginning|
