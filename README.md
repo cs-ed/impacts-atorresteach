@@ -35,7 +35,7 @@
 
 # <p align="center">Learning Activities
 
-## Unit 1: Intro to Computer Science and Algorithms
+### Unit 1: Intro to Computer Science and Algorithms
 | *Unit 1*| *Topics/Activites* |  *Big Ideas* | 	
 | :---:	| :---:| :---: |
 | |What is computer science and why should we study it? (Videos, discussion, readings, blogs)| Lesson: Improving skin tone representation across Google -Weekly articles will Students learn about problems in the computer science field.  Students will see how AI has changed the compter science field, but also how it hinders various demographics due to its lack of diversity in the algorithm.  Changes are currently being made for better facial recognition software?  Students will research the positives and negatives of AI on facial recgonition, and determine what demographics have been negatively impacted by this software.  Student groups will present a list of 5 affects AI facial recognition has had on society. https://blog.google/products/search/monk-skin-tone-scale/ |
