@@ -4,11 +4,12 @@
 # Creating Social Change through Computer Science 
 
 
-Currently 7% of students at Indio High School take a computer science course, although no specialty courses are offered. Since 96% of the student body is Latino offering this course would provide a great oppurtinity to help gain traction on the diversity gap in the computer science industry. Currently only 24% of those taking a computer science course are female, so finding ways to recruit more female students would be a focus during course request times at the end of the year. The first course I would implement at Indio High School would be AP Computer Science Principles.  This course would allow students to become familiar with the concepts and tools of computer science as you learn to program in python.  Students will gain hands-on work and collaboration skills to design, write, and test computer programs that solve problems or accomplish tasks while learning about and addressing the social impacts of computer science. This would be considered an introductory computer science course open to students who have completed Integrated Math I with a C or better. 
+Currently 7% of students at Indio High School take a computer science course, although no specialty courses are offered. Since 96% of the student body is Latino offering this course would provide a great oppurtinity to help gain traction on the diversity gap in the computer science industry. Currently only 24% of those taking a computer science course are female, so finding ways to recruit more female students would be a focus during course request times at the end of the year. 
+
+The first course I would implement at Indio High School would be AP Computer Science Principles.  This course would allow students to become familiar with the concepts and tools of computer science as you learn to program in python.  Students will gain hands-on work and collaboration skills to design, write, and test computer programs that solve problems or accomplish tasks while learning about and addressing the social impacts of computer science. This would be considered an introductory computer science course open to students who have completed Integrated Math I with a C or better. 
 
 
-
-## AP Computer Science Principles
+## :AP Computer Science Principles:
 ---
 
 ### Learning Objectives
@@ -51,21 +52,15 @@ Currently 7% of students at Indio High School take a computer science course, al
 
 Unit 1 Activity for Algorithms (AAP) (P2) CR3
 
-Materials needed: 
-- Chromebook
-- Google Docs
-- Paper and Pencil
-
+\
 Lesson: Students are given a task to create a set of instructions to give to a “guide” to help a “visually impaired” person get from “home” to “work” to “lunch” and then back “home.” 
- -Students will be allocated 15 minutes to write their initial directions.
- -Students will be assignend random numbers and paired using a random number generator 
 
 Directions: 
-- In groups of 2 or 3, students write detailed instructions to direct a “blind” person from one location to another and then another in Google Docs. Students must write 
+- In groups of 2 or 3, students write detailed instructions to direct a “blind” person from one location to another and then another in Google Docs. 
 - They test their instructions within the group and then print out and share the instructions with another group where they will use the instructions to create a map.  
 - The designated guide will read instructions EXACTLY as they are written and the designated blind person will do EXACTLY what the instructions say to do. 
 - The recorder will take notes about any issues observed from this activity. 
-- Groups will discuss the experience with the entire class. F
+- Groups will discuss the experience and problems they uncovered with their instructions. Students will revise the directions in an attempt to provide a better 
 - For homework, students will rewrite the algorithm basedon the feedback and experience of the activity. 
 
 ### Assessment
