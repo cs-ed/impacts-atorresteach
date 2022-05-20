@@ -25,12 +25,12 @@ The first course I would implement at Indio High School would be AP Computer Sci
 
 |Blooms Taxonamy| *CR,CR10*| *Unit 1 Activity for Computing Innovations (IOC) (Computing Innovation 1, Prompt A)* |   	
 | :---:	| :---:|:---:|
-| 1.|Recall Facts and Basic Concepts - Remember	|Students will be able to recognize and define various parts of a computer and algorithm. Students will also learn about the opportunities that Computer Science provides to society and how they can be both positive and negative. |   
-| 2.|Explain Ideas and Concepts - Understand 	|  Students will need to design a program and provide an explanation of how the alogorithm will function.	|   
-| 3.| Use Information in New Situations - Apply	| Students will use information they have learned about algorithms to determine if a written or given algorithm could have either a positive or negative affect in society. Students will write up explanations of these impacts and look for ways to improve the algorithm, or ensure it is accessible to all demographics. |  	|   	
-| 4.|Draw Connections Among Ideas - Analyze  | Students will analyze algorithms and programs in both a social context and in a formal algorithm and program and determine ways to improve it to meet the needs of society|
-| 5.| Justify a Stand or Decision - Evaluate  | Students evaluate algorithms written by their peers and used constructive feedback in order to create a classroom culture of support that fosters a learning environment |
-| 6.| Produce New or Original Work - Create | Students will demonstrate learning by creating a solution through producing an alogorithm, a program, or writing response that addresses the positive and negative impacts a particular computer innovation has and ways that we can make it better. |  |
+| Remember|Recall Facts and Basic Concepts |Students will be able to recognize and define various parts of a computer and algorithm. Students will also learn about the opportunities that Computer Science provides to society and how they can be both positive and negative. |   
+|Understand|Explain Ideas and Concepts 	|  Students will need to design a program and provide an explanation of how the alogorithm will function.	|   
+| Apply| Use Information in New Situations| Students will use information they have learned about algorithms to determine if a written or given algorithm could have either a positive or negative affect in society. Students will write up explanations of these impacts and look for ways to improve the algorithm, or ensure it is accessible to all demographics. |  	|   	
+|  Analyze |Draw Connections Among Ideas| Students will analyze algorithms and programs in both a social context and in a formal algorithm and program and determine ways to improve it to meet the needs of society|
+| Evaluate  | Justify a Stand or Decision | Students evaluate algorithms written by their peers and used constructive feedback in order to create a classroom culture of support that fosters a learning environment |
+|Create | Produce New or Original Work | Students will demonstrate learning by creating a solution through producing an alogorithm, a program, or writing response that addresses the positive and negative impacts a particular computer innovation has and ways that we can make it better. |  |
 
 
 # Learning Activities
