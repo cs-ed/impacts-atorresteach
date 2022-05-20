@@ -40,17 +40,9 @@
 | :---:	| :---:| :---: |
 | |What is computer science and why should we study it? (Videos, discussion, readings, blogs)| Lesson: Improving skin tone representation across Google -Weekly articles will Students learn about problems in the computer science field.  Students will see how AI has changed the compter science field, but also how it hinders various demographics due to its lack of diversity in the algorithm.  Changes are currently being made for better facial recognition software?  Students will research the positives and negatives of AI on facial recgonition, and determine what demographics have been negatively impacted by this software.  Student groups will present a list of 5 affects AI facial recognition has had on society. https://blog.google/products/search/monk-skin-tone-scale/ |
 | |Intro to Collaboration (Pogil Activity)|Lesson: Air Quality Index Calculator -Students will make a calulaton to determine the Air Quality Index of Different places around the United States.  Students will begin to look at the difference in Air Quality by City and States with the United States.  Students will answer the following questions, What do you notice? What do you wonder? What are variables that might impact the differences between these places? https://www.engage-csedu.org/find-resources/air-quality-index-calculator   |
-||Computing Innovations (Drones, Self-DrivingCars, selections from students)|Lesson: |
-||Algorithms (Video, PB&J, Guide Leading Blind, Flowcharts, Robot Game, CSP’s Got Game! Pseudocode, Efficiency, Relationship to Computer Programs|Students are given a task to create a set of instructions to give to a “guide” to help a “visually impaired” friend get from “home” to “work” to “lunch” and then back “home.”  This lesson is to start students thinking about process of creating an algorithm.  Students will discover that although their intent was to create something that was helpful to someone, it may lack something and therefore cause harm or impair someone from meeting there goal.  Students will revise their instructions to see if after paying attention to detail if they are able to create a safe walk home for their "visually impaired" friend. |
+||Computing Innovations (Drones, Self-DrivingCars, selections from students)|Lesson: 
+||Algorithms (Video, PB&J, Guide Leading Blind, Flowcharts, Robot Game, CSP’s Got Game! Pseudocode, Efficiency, Relationship to Computer Programs|Students are given a task to create a set of instructions to give to a “guide” to help a “visually impaired” friend get from “home” to “work” to “lunch” and then back “home.”  This lesson is to start students thinking about process of creating an algorithm.  Students will discover that although their intent was to create something that was helpful to someone, it may lack something and therefore cause harm or impair someone from meeting there goal.  Students will revise their instructions to see if after paying attention to detail if they are able to create a safe walk home for their "visually impaired" friend. https://apcentral.collegeboard.org/courses/ap-computer-science-principles |
 
-
-Directions: 
-- In groups of 2 or 3, students write detailed instructions to direct a “blind” person from one location to another and then another in Google Docs. 
-- They test their instructions within the group and then print out and share the instructions with another group where they will use the instructions to create a map.  
-- The designated guide will read instructions EXACTLY as they are written and the designated blind person will do EXACTLY what the instructions say to do. 
-- The recorder will take notes about any issues observed from this activity. 
-- Groups will discuss the experience and problems they uncovered with their instructions. Students will revise the directions in an attempt to provide a better 
-- For homework, students will rewrite the algorithm basedon the feedback and experience of the activity. 
 
 ### Assessment
 
@@ -58,6 +50,6 @@ Students will be assesed using a method that incorporates art: After making init
 
 ### Outcomes
 
-Describe how your plan will facilitate diversity/equity/inclusion and help broadening participation in computing. Also describe how the course plan will help long-term goals in addressing computing impacts on society.
+To broaden participation in computing it is important to create and fostor a positive learning environment.  The largest obstacle is getting students to perservere and recognize their learning success. By creating a collaborative learning environment where students feel they can fail without judgment, they will open themselves up to asking questions and gaining feedback.  The greatest measure of success for an elective class like this is word of mouth from peer to peer.  Creating a class that students find enjoyable and rewarding, while also maintaining its objective and rigor is the key to creating long-term goals at our site to address the gap in minorities entering the field.  The goal would be to start with 1 class and by three years have 3 classes, and continue to work on increasing those numbers and adding more classes into the schedule that build on this framework. 
 
 ### Resources
