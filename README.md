@@ -24,7 +24,8 @@
 ### Unit 1: Intro to Computer Science and Algorithms
 | *Unit 1*| *Topics/Activites* |  *Big Ideas* | 	
 | :---:	| :---:| :---: |
-| |What is computer science and why should we study it? (Videos, discussion, readings, blogs)| Lesson: Improving skin tone representation across Google Weekly articles will Studnthttps://blog.google/products/search/monk-skin-tone-scale/ |
+| |What is computer science and why should we study it? (Videos, discussion, readings, blogs)| Lesson: Improving skin tone representation across Google Weekly articles will Students learn about problems in the computer science field.  Students will see how AI has changed the compter science field, but also how it hinders various demographics due to its lack of diversity in the algorithm.  Changes are currently being made for better facial recognition software?  Students will research the positives and negatives of AI on facial recgonition, and determine what demographics have been negatively impacted by this software.  Student groups will present a list of 5 affects AI facial recognition has had on society.  
+  https://blog.google/products/search/monk-skin-tone-scale/ |
 | |Intro to Collaboration (Pogil Activity)|Lesson: Air Quality Index Calculator https://www.engage-csedu.org/find-resources/air-quality-index-calculator Studens will make a calulaton to determine the Air Quality Index of Different places around the United States.  Students will begin to look at the difference in Air Quality by City and States with the United States.  Students will answer the following questions, What do you notice? What do you wonder? What are variables that might impact the differences between these places?  |
 ||Computing Innovations (Drones, Self-DrivingCars, selections from students)|CRD, AAP, IOC|
 ||Algorithms (Video, PB&J, Guide Leading Blind, Flowcharts, Robot Game, CSP’s Got Game! Pseudocode, Efficiency, Relationship to Computer Programs|CRD, AAP, IOC  |
