@@ -24,8 +24,8 @@
 ### Unit 1: Intro to Computer Science and Algorithms
 | *Unit 1*| *Topics/Activites* |  *Big Ideas* | 	
 | :---:	| :---:| :---: |
-| |What is computer science and why should we study it? (Videos, discussion, readings, blogs)| Improving skin tone representation across Google https://blog.google/products/search/monk-skin-tone-scale/ |
-| |Intro to Collaboration (Pogil Activity)|CRD, AAP, IOC   |
+| |What is computer science and why should we study it? (Videos, discussion, readings, blogs)| Lesson: Improving skin tone representation across Google Weekly articles will Studnthttps://blog.google/products/search/monk-skin-tone-scale/ |
+| |Intro to Collaboration (Pogil Activity)|Lesson: Air Quality Index Calculator https://www.engage-csedu.org/find-resources/air-quality-index-calculator Studens will make a calulaton to determine the Air Quality Index of Different places around the United States.  Students will begin to look at the difference in Air Quality by City and States with the United States.  Students will answer the following questions, What do you notice? What do you wonder? What are variables that might impact the differences between these places?  |
 ||Computing Innovations (Drones, Self-DrivingCars, selections from students)|CRD, AAP, IOC|
 ||Algorithms (Video, PB&J, Guide Leading Blind, Flowcharts, Robot Game, CSP’s Got Game! Pseudocode, Efficiency, Relationship to Computer Programs|CRD, AAP, IOC  |
 ||CS Illuminated Chapter 1| CRD, AAP, IOC|
@@ -39,7 +39,7 @@
 
 | *CR,CR10*| *Unit 1 Activity for Computing Innovations (IOC) (Computing Innovation 1, Prompt A)* |   	
 | :---:	| :---:|
-|  Recall Facts and Basic Concepts - Remember	|  Students will be able to recognize and define various parts of a computer and algorithm|   
+|  Recall Facts and Basic Concepts - Remember	|Students will be able to recognize and define various parts of a computer and algorithm|   
 |  Explain Ideas and Concepts - Understand 	|  Students will need to design a program and provide an explanation of how the alogorithm will function.	|   
 |  Use Information in New Situations - Apply	| Students will use information they have learned about algorithms to determine if a written or given algorithm could have either a positive or negative affect in society. Students will write up explanations of these impacts and look for ways to improve the algorithm, or ensure it is accessible to all demographics. |  	|   	
 |  Draw Connections Among Ideas - Analyze  | Students will analyze algorithms and programs in both a social context and in a formal algorithm and program and determine ways to improve it to meet the needs of society|
