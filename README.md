@@ -20,8 +20,10 @@ The first course I would implement at Indio High School would be AP Computer Sci
 
 
 ### How will students demonstrate the social impact of Computer Science on society?
+
 ---
-| | *CR,CR10*| *Unit 1 Activity for Computing Innovations (IOC) (Computing Innovation 1, Prompt A)* |   	
+
+|blooms Taxonamy| *CR,CR10*| *Unit 1 Activity for Computing Innovations (IOC) (Computing Innovation 1, Prompt A)* |   	
 | :---:	| :---:|:---:|
 | 1.|Recall Facts and Basic Concepts - Remember	|Students will be able to recognize and define various parts of a computer and algorithm. Students will also learn about the opportunities that Computer Science provides to society and how they can be both positive and negative. |   
 | 2.|Explain Ideas and Concepts - Understand 	|  Students will need to design a program and provide an explanation of how the alogorithm will function.	|   
@@ -34,6 +36,8 @@ The first course I would implement at Indio High School would be AP Computer Sci
 # Learning Activities
 
 ### Unit 1: Intro to Computer Science and Algorithms
+
+
 | *Unit 1*| *Topics/Activites* |  *Big Ideas* | 	
 | :---:	| :---:| :---: |
 | |What is computer science and why should we study it? (Videos, discussion, readings, blogs)| Lesson: Improving skin tone representation across Google -Weekly articles will Students learn about problems in the computer science field.  Students will see how AI has changed the compter science field, but also how it hinders various demographics due to its lack of diversity in the algorithm.  Changes are currently being made for better facial recognition software?  Students will research the positives and negatives of AI on facial recgonition, and determine what demographics have been negatively impacted by this software.  Student groups will present a list of 5 affects AI facial recognition has had on society. https://blog.google/products/search/monk-skin-tone-scale/ |
@@ -43,6 +47,7 @@ The first course I would implement at Indio High School would be AP Computer Sci
 
 
 ### Assessment
+
 Students will be assessed on the 6 objectives above based on Blooms Taxonomy using the 4 point scale rubric below.  Standard based grading will be implemented in order to provide students flexibility on their "grade."  The system allows students who may not demonstrate mastery at the beginning but later provide evidence that they have now gained understanding to improve thier grade. This further builds inclusitivity as students will not feel the need to give up when things are difficult because if they perservere their is ample oppurtunity for success.  
 
 ---
