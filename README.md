@@ -23,7 +23,7 @@ The first course I would implement at Indio High School would be AP Computer Sci
 
 ---
 
-|blooms Taxonamy| *CR,CR10*| *Unit 1 Activity for Computing Innovations (IOC) (Computing Innovation 1, Prompt A)* |   	
+|Blooms Taxonamy| *CR,CR10*| *Unit 1 Activity for Computing Innovations (IOC) (Computing Innovation 1, Prompt A)* |   	
 | :---:	| :---:|:---:|
 | 1.|Recall Facts and Basic Concepts - Remember	|Students will be able to recognize and define various parts of a computer and algorithm. Students will also learn about the opportunities that Computer Science provides to society and how they can be both positive and negative. |   
 | 2.|Explain Ideas and Concepts - Understand 	|  Students will need to design a program and provide an explanation of how the alogorithm will function.	|   
