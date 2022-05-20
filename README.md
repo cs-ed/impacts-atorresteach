@@ -33,7 +33,7 @@
 |  Produce New or Original Work - Create | Students will demonstrate learning by creating a solution through producing an alogorithm, a program, or writing response that addresses the positive and negative impacts a particular computer innovation has and ways that we can make it better. |  |
 
 
-### <p align="center"> Learning Activities
+# <p align="center">Learning Activities
 
 ## Unit 1: Intro to Computer Science and Algorithms
 | *Unit 1*| *Topics/Activites* |  *Big Ideas* | 	
