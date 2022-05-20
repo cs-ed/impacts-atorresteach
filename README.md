@@ -49,10 +49,11 @@
 ---
 | 4| 3| 2  | 1|
 | :---:	| :---:|:---:|:---:|
-| Exemplary|Students will be able to recognize and define various parts of a computer and algorithm. Students will also learn about the opportunities that Computer Science provides to society and how they can be both positive and negative. |   
-| Meeting	|  Students will need to design a program and provide an explanation of how the alogorithm will function.	|   
-| Approaching	| Students will use information they have learned about algorithms to determine if a written or given algorithm could have either a positive or negative affect in society. Students will write up explanations of these impacts and look for ways to improve the algorithm, or ensure it is accessible to all demographics. |  	|   	
-| Beginning | Students will analyze algorithms and programs in both a social context and in a formal algorithm and program and determine ways to improve it to meet the needs of society|
+| Exemplary|Meeting |Approaching|Beginning\
+| Evidence indicates in-depth understanding, demonstration orapplication of theoutcome.This may include applying knowledge to new situations or from
+different perspectives| Evidence indicates understanding, demonstration or application of the outcome. The learner demonstrates a basic understanding of  the skill, topic or concept. |   ||
+ 	
+
 
 
 
