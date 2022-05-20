@@ -38,7 +38,7 @@ The first course I would implement at Indio High School would be AP Computer Sci
 
 | *CR,CR10*| *Unit 1 Activity for Computing Innovations (IOC) (Computing Innovation 1, Prompt A)* |   	
 | :---:	| :---:|
-|  Recall Facts and Basic Concepts - Remember	|  Students will be able to recognize and define various parts of a computer and algorithm	|   
+|  Recall Facts and Basic Concepts - Remember	|  Students will be able to recognize and define various parts of a computer and algorithm|   
 |  Explain Ideas and Concepts - Understand 	|  Students will need to design a program and provide an explanation of how the alogorithm will function.	|   
 |  Use Information in New Situations - Apply	| Students will use information they have learned about algorithms to determine if a written or given algorithm could have either a positive or negative affect in society. Students will write up explanations of these impacts and look for ways to improve the algorithm, or ensure it is accessible to all demographics. |  	|   	
 |  Draw Connections Among Ideas - Analyze  | Students will analyze algorithms and programs in both a social context and in a formal algorithm and program and determine ways to improve it to meet the needs of society|
@@ -53,7 +53,7 @@ The first course I would implement at Indio High School would be AP Computer Sci
 Unit 1 Activity for Algorithms (AAP) (P2) CR3
 
 \
-Lesson: Students are given a task to create a set of instructions to give to a “guide” to help a “visually impaired” person get from “home” to “work” to “lunch” and then back “home.” 
+Lesson: Students are given a task to create a set of instructions to give to a “guide” to help a “visually impaired” person get from “home” to “work” to “lunch” and then back “home.”  This lesson is to start students thinking about process of creating an algorithm. The lesson will begin the discussion of the impact computer science has on society.  Students will discover that although their intent was to create something that was helpful to someone, it may lack something and therefore cause harm or impair someone from meeting there goal.
 
 Directions: 
 - In groups of 2 or 3, students write detailed instructions to direct a “blind” person from one location to another and then another in Google Docs. 
