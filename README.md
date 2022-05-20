@@ -9,7 +9,7 @@ Currently 7% of students at Indio High School take a computer science course, al
 The first course I would implement at Indio High School would be AP Computer Science Principles.  This course would allow students to become familiar with the concepts and tools of computer science as you learn to program in python.  Students will gain hands-on work and collaboration skills to design, write, and test computer programs that solve problems or accomplish tasks while learning about and addressing the social impacts of computer science. This would be considered an introductory computer science course open to students who have completed Integrated Math I with a C or better. 
 
 
-## :AP Computer Science Principles:
+## <p align="center">AP Computer Science Principles
 ---
 
 ### Learning Objectives
