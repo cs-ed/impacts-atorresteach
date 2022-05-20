@@ -45,7 +45,7 @@
 
 
 ### Assessment
-
+Students will be assessed on the 6 objectives above based on Blooms Taxonomy using the 4 point scale rubric below.  Standard based grading will be implemented in order to provide students flexibility on their "grade."  The system allows students who may not demonstrate mastery at the beginning but later provide evidence that they have now gained understanding to improve thier grade. This further builds inclusitivity as students will not feel the need to give up when things are difficult because if they perservere their is ample oppurtunity for success.  
 ---
 | 4| 3| 2  | 1|
 | :---:	| :---:|:---:|:---:|
@@ -67,5 +67,6 @@ To broaden participation in computing it is important to create and fostor a pos
 - https://csforca.org/the-data/
 - https://www.cde.ca.gov/pd/ca/cs/index.asp
 - https://www.engage-csedu.org/find-resources/air-quality-index-calculator
+- https://bloomstaxonomy.net
 
 
