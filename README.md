@@ -21,22 +21,8 @@
 - Documenting and explaining how program code works
 
 
-### Unit 1: Intro to Computer Science and Algorithms
-| *Unit 1*| *Topics/Activites* |  *Big Ideas* | 	
-| :---:	| :---:| :---: |
-| |What is computer science and why should we study it? (Videos, discussion, readings, blogs)| Lesson: Improving skin tone representation across Google -Weekly articles will Students learn about problems in the computer science field.  Students will see how AI has changed the compter science field, but also how it hinders various demographics due to its lack of diversity in the algorithm.  Changes are currently being made for better facial recognition software?  Students will research the positives and negatives of AI on facial recgonition, and determine what demographics have been negatively impacted by this software.  Student groups will present a list of 5 affects AI facial recognition has had on society. https://blog.google/products/search/monk-skin-tone-scale/ |
-| |Intro to Collaboration (Pogil Activity)|Lesson: Air Quality Index Calculator -Students will make a calulaton to determine the Air Quality Index of Different places around the United States.  Students will begin to look at the difference in Air Quality by City and States with the United States.  Students will answer the following questions, What do you notice? What do you wonder? What are variables that might impact the differences between these places? https://www.engage-csedu.org/find-resources/air-quality-index-calculator   |
-||Computing Innovations (Drones, Self-DrivingCars, selections from students)|Lesson: |
-||Algorithms (Video, PB&J, Guide Leading Blind, Flowcharts, Robot Game, CSP’s Got Game! Pseudocode, Efficiency, Relationship to Computer Programs|CRD, AAP, IOC  |
-||CS Illuminated Chapter 1| CRD, AAP, IOC|
-
-
-
 ### How will students demonstrate the social impact of Computer Science on society?
 ---
-
-
-
 | *CR,CR10*| *Unit 1 Activity for Computing Innovations (IOC) (Computing Innovation 1, Prompt A)* |   	
 | :---:	| :---:|
 |  Recall Facts and Basic Concepts - Remember	|Students will be able to recognize and define various parts of a computer and algorithm. Students will also learn about the opportunities that Computer Science provides to society and how they can be both positive and negative. |   
@@ -49,9 +35,15 @@
 
 
 
-### Learning Activities
+###<p align="center"> Learning Activities
 
-Unit 1 Activity for Algorithms (AAP) (P2) CR3
+### Unit 1: Intro to Computer Science and Algorithms
+| *Unit 1*| *Topics/Activites* |  *Big Ideas* | 	
+| :---:	| :---:| :---: |
+| |What is computer science and why should we study it? (Videos, discussion, readings, blogs)| Lesson: Improving skin tone representation across Google -Weekly articles will Students learn about problems in the computer science field.  Students will see how AI has changed the compter science field, but also how it hinders various demographics due to its lack of diversity in the algorithm.  Changes are currently being made for better facial recognition software?  Students will research the positives and negatives of AI on facial recgonition, and determine what demographics have been negatively impacted by this software.  Student groups will present a list of 5 affects AI facial recognition has had on society. https://blog.google/products/search/monk-skin-tone-scale/ |
+| |Intro to Collaboration (Pogil Activity)|Lesson: Air Quality Index Calculator -Students will make a calulaton to determine the Air Quality Index of Different places around the United States.  Students will begin to look at the difference in Air Quality by City and States with the United States.  Students will answer the following questions, What do you notice? What do you wonder? What are variables that might impact the differences between these places? https://www.engage-csedu.org/find-resources/air-quality-index-calculator   |
+||Computing Innovations (Drones, Self-DrivingCars, selections from students)|Lesson: |
+||Algorithms (Video, PB&J, Guide Leading Blind, Flowcharts, Robot Game, CSP’s Got Game! Pseudocode, Efficiency, Relationship to Computer Programs|CRD, AAP, IOC  |
 
 \
 Lesson: Students are given a task to create a set of instructions to give to a “guide” to help a “visually impaired” person get from “home” to “work” to “lunch” and then back “home.”  This lesson is to start students thinking about process of creating an algorithm. The lesson will begin the discussion of the impact computer science has on society.  Students will discover that although their intent was to create something that was helpful to someone, it may lack something and therefore cause harm or impair someone from meeting there goal.
