@@ -1,7 +1,7 @@
 ![Rajahs (4)](https://user-images.githubusercontent.com/89416299/142585478-9f65337d-ff5f-445c-9f7a-f4ae308d546b.png)
 ---
 
-##Creating Social Change through Computer Science 
+#<p align="center">Creating Social Change through Computer Science 
 
 
 Currently 7% of students at Indio High School take a computer science course, although no specialty courses are offered. Since 96% of the student body is Latino offering this course would provide a great oppurtinity to help gain traction on the diversity gap in the computer science industry. Currently only 24% of those taking a computer science course are female, so finding ways to recruit more female students would be a focus during course request times at the end of the year. 
