@@ -24,7 +24,7 @@
 ### Unit 1: Intro to Computer Science and Algorithms
 | *Unit 1*| *Topics/Activites* |  *Big Ideas* | 	
 | :---:	| :---:| :---: |
-| |What is computer science and why should we study it? (Videos, discussion, readings, blogs)| CRD, AAP, IOC|
+| |What is computer science and why should we study it? (Videos, discussion, readings, blogs)| Improving skin tone representation across Google https://blog.google/products/search/monk-skin-tone-scale/ |
 | |Intro to Collaboration (Pogil Activity)|CRD, AAP, IOC   |
 ||Computing Innovations (Drones, Self-DrivingCars, selections from students)|CRD, AAP, IOC|
 ||Algorithms (Video, PB&J, Guide Leading Blind, Flowcharts, Robot Game, CSP’s Got Game! Pseudocode, Efficiency, Relationship to Computer Programs|CRD, AAP, IOC  |
