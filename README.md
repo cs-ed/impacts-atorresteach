@@ -50,8 +50,8 @@
 | 4| 3| 2  | 1|
 | :---:	| :---:|:---:|:---:|
 | Exemplary|Meeting |Approaching|Beginning|
-| Evidence indicates in-depth understanding, demonstration orapplication of theoutcome.This may include applying knowledge to new situations or from
-different perspectives| Evidence indicates understanding, demonstration or application of the outcome. The learner demonstrates a basic understanding of  the skill, topic or concept. |   ||
+| Evidence indicates in-depth understanding, demonstration orapplication of theoutcome.This may include applying knowledge to new situations or from different perspectives| Evidence indicates understanding, demonstration or application of the outcome. | Evidence indicates progression towards understanding, demonstration or application of the outcome.|Evidence indicates initial understanding, demonstration or application of the outcome.
+|The learner demonstrates a basic understanding of  the skill, topic or concept.||||
  	
 
 
