@@ -1,6 +1,6 @@
 ![Rajahs (4)](https://user-images.githubusercontent.com/89416299/142585478-9f65337d-ff5f-445c-9f7a-f4ae308d546b.png)
 
-#  Creating Social Change through Computer Science 
+# Creating Social Change through Computer Science 
 
 
 <p align="center"> Currently 7% of students at Indio High School take a computer science course, although no specialty courses are offered.Since 96% of the student body is Latino offering this course would provide a great oppurtinity to help gain traction on the diversity gap in the computer science industry. Currently only 24% of those taking a computer science course are female, so finding ways to recruit more female students would be a focus during course request times at the end of the year. 
@@ -9,7 +9,7 @@
 - <p align="center">This would be considered an introductory computer science course open to students who have completed Integrated Math I with a C or better. 
 
 
-# <p align="center"> AP Computer Science Principles
+# AP Computer Science Principles
 
 ### Learning Objectives
 ---
@@ -51,9 +51,6 @@ Students will be assessed on the 6 objectives above based on Blooms Taxonomy usi
 | Evidence indicates in-depth understanding, demonstration orapplication of theoutcome.This may include applying knowledge to new situations or from different perspectives| Evidence indicates understanding, demonstration or application of the outcome. | Evidence indicates progression towards understanding, demonstration or application of the outcome.|Evidence indicates initial understanding, demonstration or application of the outcome.
 |The learner demonstrates a basic understanding of the skill, topic or concept.|The learner demonstrates a basic understanding of the skill, topic or concept.|Learner is just beginning to understand the topic or use the skill.|Learner may need support to help demonstrate understanding|
  	
-
-
-
 
 ### Outcomes
 
