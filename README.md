@@ -1,6 +1,6 @@
 # <p align="center">
   <img width ="450" src="https://user-images.githubusercontent.com/89416299/142585478-9f65337d-ff5f-445c-9f7a-f4ae308d546b.png">
-  <p>
+  </p>
 
 # <p align="center"> Creating Social Change through Computer Science 
 
